@@ -27,9 +27,8 @@ pyopenssl==24.1.0
 PyPDF2==2.12.1
 pyserial==3.5
 python-dateutil==2.8.2
-python-ldap==3.4.4
 python-stdnum==1.19
-pytz
+pytz==2025.2
 pyusb==1.2.1
 qrcode==7.4.2
 reportlab==4.1.0
